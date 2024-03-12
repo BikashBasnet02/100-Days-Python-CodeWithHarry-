@@ -25,7 +25,7 @@ str1 = "He's name is Dan. He is an honest man."
 print(str1.find("ishh"))
 # print(str1.index("ishh"))
 
-str1 = "WelcomeToTheConsole"
+str1 = "WelcomeToTheConsole"  
 print(str1.isalnum())
 str1 = "Welcome"
 print(str1.isalpha())
